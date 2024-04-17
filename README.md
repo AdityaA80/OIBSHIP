@@ -1,2 +1,2 @@
-# OIBSHIP_task-1
+# OIBSHIP_tasks
 internship projects
